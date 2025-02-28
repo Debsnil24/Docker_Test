@@ -1,5 +1,5 @@
 # Docker_Test
-This is a simple implementation of setting up a Docker Container for a Simple Webserver in Go.
+This is a simple implementation of setting up a Docker Container for a Simple Webserver in Golang.
 
 #### Starting the server
 ```bash
